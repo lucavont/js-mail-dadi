@@ -1,0 +1,16 @@
+.email {
+    display: flex;
+    background-color: gray;
+    height: 400px;
+    align-items: center;
+}
+
+.dice {
+    background-color: gray;
+    margin-top: 40px;
+    height: 400px;
+}
+
+.button {
+    margin-top: 100px;
+}
